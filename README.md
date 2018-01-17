@@ -1,0 +1,2 @@
+# stengg-parent
+base architecture
